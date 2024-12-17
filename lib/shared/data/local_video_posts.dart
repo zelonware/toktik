@@ -1,5 +1,12 @@
 List<Map<String, dynamic>> videoPosts = [
   {
+    'name': 'Lost in paradise',
+    'videoUrl':
+        'https://videos.pexels.com/video-files/4434286/4434286-hd_1080_1920_30fps.mp4',
+    'likes': 123,
+    'views': 6654,
+  },
+  {
     'name': 'Subiendo escaleras automáticas',
     'videoUrl':
         'https://videos.pexels.com/video-files/5829173/5829173-uhd_1440_2560_24fps.mp4',
